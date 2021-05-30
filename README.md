@@ -7,9 +7,11 @@ Scenery development for simulations, centered on X-Plane flight simulator This i
 
 Being interested in simulations, I am occupied in the updating and development of scenery for X-Plane 10+. Scenery here is in various stages of development before being submitted to the Scenery Gateway. You are welcome to download, use and improve any objects ant location scenery her but at your own risk. No warranty is implied whatso ever and these sets. 
 
-I began using [AC3D]() to build models for export, with the plugin ([ac3d_plugin_win_321r2]()) but have switched for most of my modeling to [Blender]() and [Xplane2Blender]() plugin. Occasionally I do pre-design constructions with [FreeCAD](). I believe in and support [open source software](https://opensource.org/) whenever I can.
+I began using [AC3D](https://www.inivis.com/xplane.html) to build models for export, with the plugin ([ac3d_plugin_win_321r2](https://developer.x-plane.com/tools/ac3d-plugin/)) but have switched for most of my modeling to [Blender](https://www.blender.org/) and [Xplane2Blender](https://github.com/X-Plane/XPlane2Blender) plugin. Occasionally I do pre-design constructions with [FreeCAD]()https://www.freecadweb.org/. 
 
-There are a number of external library dependencies at this time; the most stable being [OpenSceneryX](), [NAPS Library](), [waves library]() and [others]() which are poorly documented here at this time. I Thank the creators of all these libraries. In order to submit to the Scenery Gateway the objects used must be moved inside the package - which will simplify getting all the objects needed.
+I believe in and support [open source software](https://opensource.org/) whenever I can.
+
+There are a number of external library dependencies at this time; the most stable being [OpenSceneryX](https://www.opensceneryx.com/), [NAPS Library](), [waves library]() and [others]() which are poorly documented here at this time. I Thank the creators of all these libraries. In order to submit to the Scenery Gateway the objects used must be moved inside the package - which will simplify getting all the objects needed.
 
 ## SpaceX Boca Chica Build and Launch Sites
 
