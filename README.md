@@ -11,7 +11,7 @@ I began using [AC3D](https://www.inivis.com/xplane.html) to build models for exp
 
 I believe in and support [open source software](https://opensource.org/) whenever I can.
 
-There are a number of external library dependencies at this time; the most stable being [OpenSceneryX](https://www.opensceneryx.com/), [NAPS Library](), [waves library]() and [others]() which are poorly documented here at this time. I Thank the creators of all these libraries. In order to submit to the Scenery Gateway the objects used must be moved inside the package - which will simplify getting all the objects needed.
+There are a number of external library dependencies at this time; the most stable being [OpenSceneryX](https://www.opensceneryx.com/), [NAPS Library](https://www.x-plained.com/), [waves library](https://forums.x-plane.org/index.php?/files/file/25439-waves-library/) and [others](https://forums.x-plane.org/index.php?/search/&tags=library) which are poorly documented here at this time. I Thank the creators of all these libraries. In order to submit to the Scenery Gateway the objects used must be moved inside the package - which will simplify getting all the objects needed.
 
 ## SpaceX Boca Chica Build and Launch Sites
 
