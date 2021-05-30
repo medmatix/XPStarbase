@@ -1,10 +1,2 @@
-## Current Scenery Package
-
-
-
-### Overview
-
-### Installation
-
-### Discussion 
+## General and Development Documentation
 
