@@ -21,17 +21,17 @@ The rapid development of both infra-structure and at the Boca Chica Texas sites 
 
 Although strictly not an airport, I have created X-Plane 11 scenery for this FAA Licensed / Designated spaceport in South Texas. The, "IATA ID" of the semi-fictitious FAA recognized facility is informally SX20. A zipped version of the most up-to-date installation is here, along with most supporting development materials (objects).
 
-[Here](https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Spacex%20Boca%20Chica%20X-plane%20scenery%20Screenshots.pdf) are screen shots of the Boca Chica area in X-Plane 11. (These in the process of bring up-dated to reflect current content).
+[Here](https://github.com/medmatix/XPStarbase/images/Screenshots.pdf) are screen shots of the Boca Chica area in X-Plane 11. (These in the process of bring up-dated to reflect current content).
 
-[Sub-orbital Platforms](/images/Boca%20Chica%201.png)
+I[Sub-orbital Platforms](/images/Boca%20Chica%201.png)
 
-![Road to Build Site]()
+![Road to Build Site](/images/Boca%20Chica%202.png)
 
-![Build Site]()
+![Build Site](/images/Boca%20Chica%203.png)
 
-![Boca Chica Village]()
+![Boca Chica Village](/images/Boca%20Chica%204.png)
 
-![Road to Launch Site]()
+![Road to Launch Site](/images/Boca%20Chica%205.png)
 
 The some truly "fictitious" areas may be included from time to time in the experimental branches, Sea Launch Platform which is a plan on record is rendered from time to time near shore. The Use of the beach area is less do-able for regulatory reasons of course.
 
