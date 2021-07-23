@@ -31,3 +31,7 @@ world-models
   
 
 Orbx_OrbxlibsXP is freeware which came be had at this time, at orbxdirect.com
+
+I think the best summary of the South Texas Launch Site Plans is from [Tesmanian](https://www.tesmanian.com/blogs/tesmanian-blog/spacex-launch-site-map), extracted from an Army Corps of engineers report. I refer to thois regularly.
+
+Also included here are some notifications and regulatory materials I found from FAA and otheer government and local sites.
