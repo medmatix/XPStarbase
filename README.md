@@ -23,7 +23,7 @@ Although strictly not an airport, I have created X-Plane 11 scenery for this FAA
 
 [Here](https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Spacex%20Boca%20Chica%20X-plane%20scenery%20Screenshots.pdf) are screen shots of the Boca Chica area in X-Plane 11. (These in the process of bring up-dated to reflect current content).
 
-![Sub-orbital Platforms]()
+[Sub-orbital Platforms](/images/Boca%20Chica%201.png)
 
 ![Road to Build Site]()
 
