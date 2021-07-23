@@ -4,7 +4,7 @@
 
 ### Overview
 
-As I build to models for the object to install in the scenery, I take still pngs to get an idea how it will look. I include some of these here but Note! these are unlikely the final models.See the /XPStarbase/Blender directory for models I uploaded. These too are not necessarily final versions. This is a work in progress and I do go to others for a break (such as my British Commonwealth Air Training Plan (BCATP) Aerodromes).
+As I build to models for the object to install in the scenery, I take still pngs to get an idea how it will look. I include some of these here but Note! these are unlikely the final models.See the /XPStarbase/Blender directory for models I uploaded. These too are not necessarily final versions. This is a work in progress and I do go to others for a break (such as my British Commonwealth Air Training Plan (BCATP) Aerodromes), If interested see: [BCATP Picton Aerodrome and Base](https://github.com/medmatix/BCATP-Picton_Aerodrome).
 
 ### Collection
 
