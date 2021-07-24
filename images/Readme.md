@@ -6,6 +6,10 @@
 
 As I build to models for the object to install in the scenery, I take still pngs to get an idea how it will look. I include some of these here but Note! these are unlikely the final models.See the /XPStarbase/Blender directory for models I uploaded. These too are not necessarily final versions. This is a work in progress and I do go to others for a break (such as my British Commonwealth Air Training Plan (BCATP) Aerodromes), If interested see: [BCATP Picton Aerodrome and Base](https://github.com/medmatix/BCATP-Picton_Aerodrome).
 
+Invaluable assistance has been gained from RVG Aerial Photography to help me to organize the layout.
+
+<iframe allowfullscreen="true" src="https://www.easyzoom.com/embed/2f4ca179fa6c4ff5a0409037cbe7733d" width="780" height="440"></iframe>
+
 ### Collection
 
 Clearly the full list on screen shots and render pngs on the site is above. Some are embedded below as well.
