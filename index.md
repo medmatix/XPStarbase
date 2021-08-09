@@ -36,7 +36,7 @@ Although strictly not an airport, I have created X-Plane 11 scenery for this FAA
 The some truly "fictitious" areas may be included from time to time in the experimental branches, Sea Launch Platform which is a plan on record is rendered from time to time near shore. The Use of the beach area is less do-able for regulatory reasons of course.
 
 The platform I developed last September when the "Mary - Maria Pointer" @BocaChicaMaria1 spotted a platform being renovated in the ship canal. Your guess on the ultimate configuration is as good as mine, but here is one for fun.
-
+ 
 ## SpaceX Field
 
 A landing strip is currently included so I can takeoff and land while overflying to inspect the scenery in use.
