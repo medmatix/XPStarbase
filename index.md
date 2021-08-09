@@ -42,4 +42,4 @@ The platform I developed last September when the "Mary - Maria Pointer" @BocaChi
 A landing strip is currently included so I can takeoff and land while overflying to inspect the scenery in use.
 
 
-
+ 
