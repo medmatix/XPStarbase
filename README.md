@@ -42,4 +42,4 @@ The platform I developed last September when the "Mary - Maria Pointer" @BocaChi
 A landing strip is currently included so I can takeoff and land while overflying to inspect the scenery in use.
 
 
-Support my work via [Paypal]() or [Patreon](https://www.patreon.com/medmatix)
+Support my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US) or [Patreon](https://www.patreon.com/medmatix)
